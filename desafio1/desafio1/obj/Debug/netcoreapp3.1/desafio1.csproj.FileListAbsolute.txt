@@ -1,0 +1,14 @@
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\bin\Debug\netcoreapp3.1\desafio1.exe
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\bin\Debug\netcoreapp3.1\desafio1.deps.json
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\bin\Debug\netcoreapp3.1\desafio1.runtimeconfig.json
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\bin\Debug\netcoreapp3.1\desafio1.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\bin\Debug\netcoreapp3.1\desafio1.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\bin\Debug\netcoreapp3.1\desafio1.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio1\desafio1\obj\Debug\netcoreapp3.1\desafio1.genruntimeconfig.cache

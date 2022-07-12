@@ -1,0 +1,16 @@
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\bin\Debug\netcoreapp3.1\desafio2.exe
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\bin\Debug\netcoreapp3.1\desafio2.deps.json
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\bin\Debug\netcoreapp3.1\desafio2.runtimeconfig.json
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\bin\Debug\netcoreapp3.1\desafio2.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\bin\Debug\netcoreapp3.1\desafio2.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\bin\Debug\netcoreapp3.1\desafio2.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.Form1.resources
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.csproj.GenerateResource.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\desafio\desafio2\desafio2\desafio2\obj\Debug\netcoreapp3.1\desafio2.genruntimeconfig.cache

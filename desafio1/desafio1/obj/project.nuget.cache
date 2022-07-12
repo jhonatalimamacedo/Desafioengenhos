@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pN+rCPGuzeQANv/2qqfum+DxVri/7v/Fr8jbu/UiWrav77qegquT7/qxbkEwEmhXVe8H/cHsp+wQUlNsK9oJmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhona\\OneDrive\\Área de Trabalho\\desafio\\desafio1\\desafio1\\desafio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
